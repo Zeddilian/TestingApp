@@ -9,6 +9,8 @@ namespace TestCase
         [Test]
         public void Test1()
         {
+            //something new
+
             Random rnd = new Random();
 
             int number = rnd.Next(500, 1001);
